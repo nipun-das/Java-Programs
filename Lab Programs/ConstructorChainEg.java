@@ -1,6 +1,3 @@
-package com.company;
-
-
 class Chain {
     Chain() {
         this(1);
@@ -20,6 +17,12 @@ class Chain {
 
 public class ConstructorChainEg {
     public static void main(String args[]) {
-        Chain ch = new Chain();
+        Chain ch = new Chain();                         //From here control goes to Chain() constructor
     }
 }
+
+
+
+// O/P ->  Two parameters
+//         One parameter
+//         No parameters
