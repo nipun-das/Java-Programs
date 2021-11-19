@@ -1,4 +1,3 @@
-package com.company;
 class DogsConst{
     String breed;
     String size;
