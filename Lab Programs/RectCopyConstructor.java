@@ -1,5 +1,3 @@
-package com.company;
-
 class Rectangle{
     int length;
     int breadth;
