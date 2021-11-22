@@ -1,5 +1,3 @@
-package com.company;
-
 //To calculate area of two rectangles using Constructors
 class Rect {
     int length;
