@@ -1,6 +1,3 @@
-package com.company;
-
-
 class Box {
     double width;
     double height;
