@@ -1,5 +1,3 @@
-package com.company;
-
 class A {
     int i, j;
 
