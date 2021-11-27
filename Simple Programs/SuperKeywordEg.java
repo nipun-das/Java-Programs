@@ -1,5 +1,3 @@
-package com.company;
-
 class Boxx {
     private double width;
     private double height;
