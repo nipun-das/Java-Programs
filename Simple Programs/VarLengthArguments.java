@@ -27,6 +27,6 @@ public class VarLengthArguments {
     public static void main(String[] args) {
             VarLenArg.method(2,3,4);
             VarLenArg.method(true,false);
-           VarLenArg.method("hi","hello");
+            VarLenArg.method("hi","hello");
     }
 }
