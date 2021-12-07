@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 /*Dynamic method dispatch is the mechanism
 by which a call to an overridden method is resolved at run time, rather than compile time.
 Dynamic method dispatch is important because this is how Java implements run-time
