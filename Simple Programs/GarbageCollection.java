@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 public class GarbageCollection {
     public static void main(String[] args) {
         GarbageCollection obj1 = new GarbageCollection();
