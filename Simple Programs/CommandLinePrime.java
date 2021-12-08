@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 public class CommandLinePrime {
     public static void main(String[] args) {
         if (args.length > 0)
