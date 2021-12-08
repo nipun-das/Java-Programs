@@ -1,6 +1,3 @@
-package com.JavaPrograms2;
-
-
 class Outer2 {
     int outer_x = 100;
     Inner inner = new Inner();
