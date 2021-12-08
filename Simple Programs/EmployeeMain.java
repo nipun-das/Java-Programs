@@ -1,5 +1,3 @@
-package com.company;
-
 class Employee {
     String name;
     int age;
