@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 class Outer3 {
     int outer_x = 1;
 
