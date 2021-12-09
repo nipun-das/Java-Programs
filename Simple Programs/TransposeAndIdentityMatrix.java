@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 import java.util.Scanner;
 
 //Menu-driven program for identity matrix checking and transpose finding
