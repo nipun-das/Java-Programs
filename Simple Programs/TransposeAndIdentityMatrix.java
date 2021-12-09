@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Menu-driven program for identity matrix checking and transpose finding
+//Menu-driven program for checking identity matrix and finding transpose
 public class TransposeAndIdentityMatrix {
 
 
