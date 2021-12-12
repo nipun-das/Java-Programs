@@ -8,7 +8,7 @@ public class TransposeAndIdentityMatrix {
         int opt;
         do {
             Scanner sc = new Scanner(System.in);
-            com.JavaPrograms2.ABC obj = new com.JavaPrograms2.ABC();
+            TransposeAndIdentityMatrix obj = new TransposeAndIdentityMatrix();
             int i, j, c, m, n;
             System.out.print("Enter the no. of rows of the matrix : ");
             m = sc.nextInt();
