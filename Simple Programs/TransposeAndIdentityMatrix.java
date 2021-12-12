@@ -45,7 +45,7 @@ public class TransposeAndIdentityMatrix {
         int i, j, f = 1;
         if (m == n) {
             for (i = 0; i < m; i++) {
-                for (j = 0; j < m; j++) {
+                for (j = 0; j < n; j++) {
                     if (i == j && a[i][j] != 1) {
                         f = 0;
                         break;
