@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 public class ContinueLabel {
     public static void main(String[] args) {
         outer:for (int i = 0; i < 10; i++) {
