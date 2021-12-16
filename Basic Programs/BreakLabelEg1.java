@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 public class BreakLabelEg1 {
     public static void main(String[] args) {
         boolean t = true;
