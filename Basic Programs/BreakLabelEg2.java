@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 public class BreakLabelEg2 {
     public static void main(String[] args) {
         outer:
