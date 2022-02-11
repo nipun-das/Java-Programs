@@ -1,5 +1,3 @@
-package com.swing;
-
 import javax.swing.*;
 
 public class Pg4JFrameButtonTxtField extends JFrame {
