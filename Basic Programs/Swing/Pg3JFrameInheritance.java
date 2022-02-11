@@ -1,5 +1,3 @@
-package com.swing;
-
 import javax.swing.*;
 
 public class Pg3JFrameInheritance extends JFrame {
