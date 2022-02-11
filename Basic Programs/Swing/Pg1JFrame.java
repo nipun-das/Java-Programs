@@ -1,4 +1,3 @@
-package com.swing;
 
 import javax.swing.*;
 
