@@ -1,5 +1,3 @@
-package com.swing;
-
 import javax.swing.*;
 
 class Pg2JFrame {
