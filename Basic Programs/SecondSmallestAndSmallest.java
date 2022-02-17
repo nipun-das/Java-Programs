@@ -1,5 +1,3 @@
-package com.JavaPrograms2;
-
 //Implement a JAVA program to display the smallest and second-smallest element of an array.
 
 import java.util.Scanner;
